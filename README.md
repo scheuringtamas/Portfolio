@@ -12,7 +12,7 @@ This project demonstrates:
 
 - User registration and login with Firebase Authentication
 - Real-time data storage and retrieval with Firebase Firestore
-- Implementing MVVM architecture for clean and maintainable co
+- Implementing MVVM architecture for clean and maintainable code
 
 ## Skills and Technologies
 
