@@ -4,7 +4,7 @@ Showcasing my portfolio projects and apps built with various iOS development tec
 
 ## Projects
 
-### 1. [To Do List]()
+### 1. [To Do List](ToDoList)
 
 A Swift and SwiftUI-based app utilizing Firebase Authentication and Firestore for managing user to-do lists. 
 
