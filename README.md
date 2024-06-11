@@ -14,6 +14,17 @@ This project demonstrates:
 - Real-time data storage and retrieval with Firebase Firestore
 - Implementing MVVM architecture for clean and maintainable code
 
+### 2. [Quotes](Quotes)
+
+A Swift and SwiftUI-based app utilizing JSON parsing, Core Data, and widgets for displaying quotes at regular intervals.
+
+This project demonstrates:
+
+- Fetching and parsing data from an API using JSON
+- Storing parsed data in Core Data for persistent storage
+- Displaying quotes using SwiftUI widgets at regular intervals
+- Integrating widget extensions for a seamless user experience on the home screen
+
 ## Skills and Technologies
 
 This portfolio showcases projects that include the following skills and technologies:
@@ -22,6 +33,8 @@ This portfolio showcases projects that include the following skills and technolo
 - SwiftUI
 - RESTful API Integration
 - MVVM Architecture
+- WidgetKit
+- Core Data
   
 ## About Me
 
