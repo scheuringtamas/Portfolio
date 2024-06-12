@@ -20,7 +20,7 @@ A Swift and SwiftUI-based app utilizing JSON parsing, Core Data, and widgets for
 
 This project demonstrates:
 
-- Fetching and parsing data from an API using JSON
+- Fetching and parsing data from an REST API using JSON
 - Storing parsed data in Core Data for persistent storage
 - Displaying quotes using SwiftUI widgets at regular intervals
 - Integrating widget extensions for a seamless user experience on the home screen
@@ -31,7 +31,7 @@ A Swift and SwiftUI-based application that utilizes JSON parsing, Core Data, and
 
 This project demonstrates:
 
-- Fetching and parsing data from an API using JSON
+- Fetching and parsing data from an REST API using JSON
 - Storing parsed data in Core Data for persistent storage
 - Displaying books using SwiftUI
 - Loading and displaying images from URLs using AsyncImage
