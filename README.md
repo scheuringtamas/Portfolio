@@ -25,7 +25,7 @@ This project demonstrates:
 - Displaying quotes using SwiftUI widgets at regular intervals
 - Integrating widget extensions for a seamless user experience on the home screen
 
-### 2. [Harry Potter Books](HarryPotter)
+### 3. [Harry Potter Books](HarryPotter)
 
 A Swift and SwiftUI-based application that utilizes JSON parsing, Core Data, and AsyncImage to display Harry Potter books.
 
