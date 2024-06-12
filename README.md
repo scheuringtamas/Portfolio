@@ -25,6 +25,17 @@ This project demonstrates:
 - Displaying quotes using SwiftUI widgets at regular intervals
 - Integrating widget extensions for a seamless user experience on the home screen
 
+### 2. [Harry Potter Books](HarryPotter)
+
+A Swift and SwiftUI-based application that utilizes JSON parsing, Core Data, and AsyncImage to display Harry Potter books.
+
+This project demonstrates:
+
+- Fetching and parsing data from an API using JSON
+- Storing parsed data in Core Data for persistent storage
+- Displaying books using SwiftUI
+- Loading and displaying images from URLs using AsyncImage
+
 ## Skills and Technologies
 
 This portfolio showcases projects that include the following skills and technologies:
@@ -32,6 +43,8 @@ This portfolio showcases projects that include the following skills and technolo
 - Swift
 - SwiftUI
 - RESTful API Integration
+- JSON Parsing
+- AsyncImage
 - MVVM Architecture
 - WidgetKit
 - Core Data
