@@ -36,6 +36,18 @@ This project demonstrates:
 - Displaying books using SwiftUI
 - Loading and displaying images from URLs using AsyncImage
 
+### 4. [Expenses](Expenses)
+
+A Swift and SwiftUI-based application that leverages SwiftData and Swift Charts to manage and visualize personal expenses. This app demonstrates core CRUD operations (Create, Read, Update, Delete) and includes a tabbed interface for listing expenses and displaying statistics through charts.
+
+This Project Demonstrates
+
+- CRUD Operations: Add, edit, delete, and view expenses using SwiftData.
+- Filtering Data: Allowing users to filter expenses by month and search by name.
+- Displaying Data Using SwiftUI: Building an intuitive and responsive user interface.
+- Data Visualization: Using Swift Charts to present monthly expenses visually.
+
+
 ## Skills and Technologies
 
 This portfolio showcases projects that include the following skills and technologies:
@@ -48,6 +60,7 @@ This portfolio showcases projects that include the following skills and technolo
 - MVVM Architecture
 - WidgetKit
 - Core Data
+- Charts
   
 ## About Me
 
