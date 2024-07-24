@@ -9,7 +9,7 @@ Showcasing my portfolio projects and apps built with various technologies.
 
 ## About Me
 
-I am a recent computer science graduate with a passion for iOS development. I enjoy creating clean, efficient, and user-friendly applications. This portfolio is a collection of my projects, showcasing my journey and growth as a developer.
+I am a recent computer science graduate with a passion for software development. This portfolio is a collection of my projects, showcasing my journey and growth as a developer.
 
 ## Contact
 
