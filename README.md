@@ -6,7 +6,6 @@ Showcasing my portfolio projects and apps built with various technologies.
 
 ### 1. [iOS Development](iOS)
 
-Showcasing various projects developed through native iOS development
 
 ## About Me
 
