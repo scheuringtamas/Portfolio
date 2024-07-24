@@ -61,17 +61,4 @@ This portfolio showcases projects that include the following skills and technolo
 - WidgetKit
 - Core Data
 - Charts
-  
-## About Me
 
-I am a recent computer science graduate with a passion for iOS development. I enjoy creating clean, efficient, and user-friendly applications. This portfolio is a collection of my projects, showcasing my journey and growth as a developer.
-
-## Contact
-
-Feel free to reach out to me for collaboration or job opportunities:
-
-- [LinkedIn](https://www.linkedin.com/in/tamas-scheuring-8083a222a/)
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
